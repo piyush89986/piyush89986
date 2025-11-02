@@ -1,86 +1,63 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00E0FF&center=true&vCenter=true&width=650&lines=Hey+I'm+Piyush+Singh+Tomar!;Frontend+Developer+🎨;React+%7C+GSAP+%7C+TailwindCSS;Crafting+Smooth+Web+Animations+⚡" alt="Typing Animation" />
-</h1>
+# 👋 Hey, I'm Piyush Singh Tomar
 
-<p align="center">
-  🚀 <b>B.Tech in Computer Science & Engineering</b><br/>
-  💻 Frontend Developer | UI Animator | React Enthusiast
-</p>
+🎓 **B.Tech in Computer Science & Engineering**  
+💻 Frontend Developer | React | GSAP | TailwindCSS  
 
 ---
 
-### 👋 About Me
-Hi there! I'm **Piyush Singh Tomar**, a passionate **Frontend Developer** who loves building **animated and interactive web experiences**.  
-I enjoy turning designs into smooth, creative UIs using **React**, **GSAP**, and **TailwindCSS**.
+## 🚀 About Me
+I'm a passionate **Frontend Developer** focused on building modern, responsive, and interactive user interfaces.  
+I enjoy combining clean design with smooth animations using **React**, **GSAP**, and **Tailwind CSS**.
 
-> “Code with motion — design with emotion.” 🎬
-
----
-
-### 🧠 Tech Stack
-
-| Category | Technologies |
-|-----------|--------------|
-| ⚛️ **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
-| 🎞️ **Animation** | GSAP, Framer Motion |
-| ⚙️ **Tools** | Git, GitHub, VS Code, Vercel |
-| 🧩 **State & Data** | Context API, Axios, LocalStorage |
+> “Good design is invisible, but great animation makes it unforgettable.” ⚡
 
 ---
 
-### 💼 Featured Projects
+## 🧠 Tech Stack
 
-#### 🎮 [GTA-Style Landing Page](https://gta-style-landing-page.vercel.app/)
-A **cinematic landing page** inspired by GTA — built using **React**, **GSAP**, and **TailwindCSS**.  
-⚡ Features parallax effects, smooth transitions, and immersive visuals.
-
-#### 🖼️ [React Image Gallery](https://react-image-gallery-ui.vercel.app/)
-A **dynamic image gallery** fetching photos using **Axios API**.  
-Clean layout, responsive grid, and animated hover effects.
-
-#### ✅ [React To-Do App](https://react-todo-localstorage.vercel.app/)
-A **minimal To-Do manager** using **LocalStorage** for persistence.  
-🎯 Built with reusable components and simple UI design.
+- ⚛️ **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+- 🎞️ **Animation:** GSAP, Framer Motion  
+- ⚙️ **Tools:** Git, GitHub, VS Code, Vercel  
+- 🧩 **State & Data:** Context API, Axios, LocalStorage  
 
 ---
 
-### 🌱 Currently Exploring
-- ⚡ Advanced GSAP timelines  
-- 🌐 Next.js for scalable React apps  
-- 🎨 Building motion-driven portfolios  
+## 💼 Featured Projects
+
+### 🎮 [GTA-Style Landing Page](https://gta-style-landing-page.vercel.app/)
+A **cinematic landing page** inspired by GTA, built with **React**, **GSAP**, and **Tailwind CSS**.  
+⚡ Smooth transitions, parallax effects, and interactive visuals.
+
+### 🖼️ [React Image Gallery](https://react-image-gallery-ui.vercel.app/)
+A **responsive gallery app** fetching images dynamically using **Axios**.  
+Clean layout and modern UI.
+
+### ✅ [React To-Do App](https://react-todo-localstorage.vercel.app/)
+A simple yet elegant **To-Do app** built using **React** and **LocalStorage**.  
+Fast, minimal, and persistent.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush89986&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush89986&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+## 🌱 Currently Exploring
+- ⚡ Next.js for production-ready React apps  
+- 🎨 GSAP timelines and advanced motion design  
+- 🧠 UI/UX design principles  
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyush89986&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
-</p>
+## 📊 GitHub Stats
+
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush89986&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush89986&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/piyush-singh-tomar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:piyushsingh@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://react-image-gallery-ui.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-singh-tomar)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushsingh@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://react-image-gallery-ui.vercel.app/)
 
 ---
 
-<h3 align="center">✨ Code • Create • Animate • Repeat ✨</h3>
+✨ *“Code. Create. Animate. Repeat.”* ✨
