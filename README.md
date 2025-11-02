@@ -1,7 +1,8 @@
-# 👋 Hey, I'm Piyush Singh Tomar
-
-🎓 **B.Tech in Computer Science & Engineering**  
-💻 Frontend Developer | React | GSAP | TailwindCSS  
+<h1 align="center">👋 Hey, I'm Piyush Singh Tomar</h1>
+<p align="center">
+🎓 <b>B.Tech in Computer Science & Engineering</b><br/>
+💻 Frontend Developer | React | GSAP | TailwindCSS
+</p>
 
 ---
 
@@ -47,17 +48,27 @@ Fast, minimal, and persistent.
 
 ## 📊 GitHub Stats
 
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush89986&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush89986&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush89986&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush89986&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-singh-tomar)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushsingh@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://react-image-gallery-ui.vercel.app/)
+<p align="center">
+  <a href="https://linkedin.com/in/piyush-singh-tomar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:piyushsingh@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://react-image-gallery-ui.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-✨ *“Code. Create. Animate. Repeat.”* ✨
+<h3 align="center">✨ Code • Create • Animate • Repeat ✨</h3>
