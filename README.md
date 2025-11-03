@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Piyush Singh Tomar</h1>
 <p align="center">
 🎓 <b>B.Tech in Computer Science & Engineering</b><br/>
-💻 Frontend Developer | React | Javascript | TailwindCSS | 
+💻 Frontend Developer | React | Javascript | TailwindCSS |
 </p>
 
 ---
@@ -25,13 +25,21 @@ I enjoy combining clean design with smooth animations using **React**, **GSAP**,
 
 ## 💼 Featured Projects
 
+### 🧠 [AI Image Enhancer](https://ai-image-inhancer-nine.vercel.app/)
+An **AI-powered image enhancement web app** using **PicWish API**, built with **React**, **Vite**, and **Tailwind CSS**.  
+⚡ Enhances image quality instantly with a clean and responsive UI.
+
 ### 🎮 [GTA-Style Landing Page](https://gta-style-landing-page.vercel.app/)
 A **cinematic landing page** inspired by GTA, built with **React**, **GSAP**, and **Tailwind CSS**.  
-⚡ Smooth transitions, parallax effects, and interactive visuals.
+💥 Smooth transitions, parallax effects, and bold visuals.
+
+### 🛍️ [React E-Commerce UI](https://your-ecommerce-link-here.vercel.app/)
+A **modern E-Commerce interface** showcasing clean design, product cards, and smooth user flow.  
+Built with **React**, **Tailwind CSS**, and **Context API**.
 
 ### 🖼️ [React Image Gallery](https://react-image-gallery-ui.vercel.app/)
 A **responsive gallery app** fetching images dynamically using **Axios**.  
-Clean layout and modern UI.
+📸 Clean layout and modern UI.
 
 ### ✅ [React To-Do App](https://react-todo-localstorage.vercel.app/)
 A simple yet elegant **To-Do app** built using **React** and **LocalStorage**.  
