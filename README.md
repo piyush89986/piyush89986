@@ -33,7 +33,7 @@ An **AI-powered image enhancement web app** using **PicWish API**, built with **
 A **cinematic landing page** inspired by GTA, built with **React**, **GSAP**, and **Tailwind CSS**.  
 💥 Smooth transitions, parallax effects, and bold visuals.
 
-### 🛍️ [React E-Commerce UI](https://your-ecommerce-link-here.vercel.app/)
+### 🛍️ [React E-Commerce UI](https://piyush89986.github.io/E-commerce/)
 A **modern E-Commerce interface** showcasing clean design, product cards, and smooth user flow.  
 Built with **React**, **Tailwind CSS**, and **Context API**.
 
