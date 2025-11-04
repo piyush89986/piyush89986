@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Piyush Singh Tomar</h1>
+<h1 align="center">Hey, I'm Piyush Singh Tomar</h1>
 <p align="center">
 🎓 <b>B.Tech in Computer Science & Engineering</b><br/>
 💻 Frontend Developer | React | Javascript | TailwindCSS |
