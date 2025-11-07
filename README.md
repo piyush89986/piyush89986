@@ -67,13 +67,13 @@ Fast, minimal, and persistent.
 
 <p align="center">
   <a href="https://linkedin.com/in/piyush-singh-tomar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="www.linkedin.com/in/piyush-singh-tanwar-07a03833b?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:piyushsingh@example.com">
+  <a href="mailto:piyushsibghtomar777@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://react-image-gallery-ui.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="//?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
