@@ -50,10 +50,10 @@ Features: Image Upload, Like System, Authentication, Real-time UI updates.
 ### 🧠 [AI Image Enhancer](https://ai-image-inhancer-nine.vercel.app/)
 AI-powered image enhancement (React + API integration)
 
-### 🛍️ [React E-Commerce UI](https://piyush89986.github.io/E-commerce/)
+### 🛍️ [React E-Commerce](https://piyush89986.github.io/E-commerce/)
 Modern UI with cart system (Context API)
 
-### 🖼️ [React Image Gallery](https://react-image-gallery-ui.vercel.app/)
+### 🖼️ [chatapp](https://chatapp-frontend-fawn-beta.vercel.app/)
 Dynamic gallery with Axios fetching
 
 ### 🎮 [GTA-Style Landing Page](https://gta-style-landing-page.vercel.app/)
@@ -80,13 +80,13 @@ Cinematic GSAP landing page
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/piyush-singh-tomar" target="_blank">
+  <a href="https://linkedin.com/in/piyush89986" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:piyushsibghtomar777@gmail.com">
+  <a href="mailto:piyushsinghtomar777@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://react-image-gallery-ui.vercel.app/" target="_blank">
+  <a href="https://portfolio-project-nu-ashen.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
