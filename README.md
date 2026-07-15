@@ -43,7 +43,8 @@ From clean UI to powerful backend APIs — I enjoy creating complete solutions f
 
 **Tools & Others**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,threejs,render,figma,aws,docker,claude.cursor,meta,google," />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,threejs,figma,aws,docker,gmail,materialui,npm,postman,redux,vite" />
 
 </div>
 
